@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mohamed Elmeselhy!
+# 👋        Hello, I'm Mohamed Elmeselhy!
 🎓 **Fresh Graduate in Computer Engineering**  
 📍 **Cairo University, Class of 2024**
 ---
