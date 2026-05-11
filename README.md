@@ -11,7 +11,6 @@ I’m a fresh graduate of Computer Engineering from Cairo University with a stro
 ## 🌱 Currently Exploring:
 - Advanced C++ concepts like multithreading and optimization
 - Competitive programming platforms to refine my problem-solving skills
-- Open-source contributions to collaborate and learn from the community
 ## 📫 Let's Connect:
 Feel free to reach out if you'd like to collaborate on a project, discuss algorithms, or just connect!
 - **Email**: [meselhym55@gmail.com]
