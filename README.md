@@ -1,6 +1,5 @@
 # 👋        Hello, I'm Mohamed Elmeselhy!
-🎓 **Fresh Graduate in Computer Engineering**  
-📍 **Cairo University, Class of 2024**
+🎓 **Fresh Graduate in Computer Engineering,Cairo University**  
 ---
 ## 🛠 About Me:
 I’m a fresh graduate of Computer Engineering from Cairo University with a strong passion for **algorithms**, **C++ development**, and **problem-solving**. Throughout my studies, I’ve built a solid foundation in data structures, software engineering, and systems programming.
