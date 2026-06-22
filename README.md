@@ -6,7 +6,6 @@ I’m a fresh graduate of Computer Engineering from Cairo University with a stro
 ## 💡 Interests:
 - **C++ Development**: I enjoy building efficient, scalable software solutions and exploring the depth of C++ for high-performance applications.
 - **Algorithms & Problem Solving**: I love solving complex challenges and participating in coding competitions to enhance my algorithmic thinking.
-- **System Design**: I have a keen interest in designing robust systems and understanding how different components interact.
 ## 🌱 Currently Exploring:
 - Advanced C++ concepts like multithreading and optimization
 - Competitive programming platforms to refine my problem-solving skills
