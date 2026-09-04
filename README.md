@@ -1,15 +1,22 @@
-# 👋        Hello, I'm Mohamed Elmeselhy!
-🎓 **Fresh Graduate in Computer Engineering,Cairo University**  
+# 👋 Hello, I'm Mohamed Elmeselhy!
+
+🎓 **Fresh Graduate in Computer & Communication Engineering, Cairo University**
+
 ---
-## 🛠 About Me:
-I’m a fresh graduate of Computer Engineering from Cairo University with a strong passion for **algorithms**, **C++ development**, and **problem-solving**. Throughout my studies, I’ve built a solid foundation in data structures, software engineering, and systems programming.
-## 💡 Interests:
-- **C++ Development**: I enjoy building efficient, scalable software solutions and exploring the depth of C++ for high-performance applications.
-- **Algorithms & Problem Solving**: I love solving complex challenges and participating in coding competitions to enhance my algorithmic thinking.
-## 🌱 Currently Exploring:
-- Advanced C++ concepts like multithreading and optimization
-- Competitive programming platforms to refine my problem-solving skills
-## 📫 Let's Connect:
-Feel free to reach out if you'd like to collaborate on a project, discuss algorithms, or just connect!
-- **Email**: [meselhym55@gmail.com]
-- **LinkedIn**: [Mohamed ELmeselhy]
+
+## 🛠 About Me
+I'm a fresh graduate in Computer & Communication Engineering from Cairo University with a strong foundation in software engineering, data structures, and systems programming. I'm not tied to any particular stack — I enjoy learning new technologies quickly by focusing on the underlying concepts rather than just syntax.
+
+## 💡 What I Work With
+- **Backend Development**: Java/Spring Boot, C#/ASP.NET, PostgreSQL
+- **Systems & Low-Level Programming**: C++, multithreading, performance optimization
+- **Problem Solving**: Algorithms, data structures, and competitive programming
+
+## 🌱 Currently Exploring
+- Advanced C++ concepts and systems-level programming
+- Expanding my backend and cloud toolkit
+
+## 📫 Let's Connect
+Feel free to reach out if you'd like to collaborate on a project or just connect!
+- **Email**: meselhym55@gmail.com
+- **LinkedIn**: [Mohamed Elmeselhy](#)
